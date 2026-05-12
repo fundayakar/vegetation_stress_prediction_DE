@@ -1,8 +1,9 @@
-# Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions Across Germany
+# Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions Under Spatial and Temporal Transfer Constraints
+
 
 This repository contains the data processing pipeline, machine learning models, and figures for the manuscript:
 
-> **Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions: A Spatially Validated Machine Learning Framework for Germany**
+> **Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions Under Spatial and Temporal Transfer Constraints**
 
 ---
 
